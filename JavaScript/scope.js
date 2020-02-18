@@ -10,4 +10,4 @@ function countdown() {
 
 // expected : 5 4 3 2 1 GO!
 // real : -1 -1 -1 -1 -1 -1
-countdown();
+// countdown();

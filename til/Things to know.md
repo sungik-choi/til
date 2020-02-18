@@ -4,16 +4,19 @@
 
 ## JavaScript
 
-- 클로저
+- [클로저](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Closures)
+  - [참고 - 1](https://hyunseob.github.io/2016/08/30/javascript-closure/)
 - 실행 컨텍스트
 - 고차함수
 - 함수형 자바스크립트
-- 객체지향 설계방법
+- [객체지향 자바스크립트](https://developer.mozilla.org/ko/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 - Object.assign()
 - Namespace
 - Promise
 - Generator
 - Iterator
+- Prototype
+- [Memory Management](https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management)
 
 ## Git
 
