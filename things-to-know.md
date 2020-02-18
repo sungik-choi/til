@@ -4,6 +4,10 @@
 
 ## JavaScript
 
+### [MDN JavaScript 자습서](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+
+> 위 링크의 자습서 중급 이상부터 꼼꼼히 공부하기
+
 - [클로저](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Closures)
   - [참고 - 1](https://hyunseob.github.io/2016/08/30/javascript-closure/)
 - 실행 컨텍스트
