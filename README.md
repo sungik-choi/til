@@ -5,7 +5,7 @@
 
 ## TIL
 
-[🤔**Things to know 더 배울 내용**](ttps://github.com/sungik-choi/til/tree/master/things-to-know.md)
+[🤔**Things to know 더 배울 내용**](https://github.com/sungik-choi/til/blob/master/things-to-know.md)
 
 - [2020년 1월](https://github.com/sungik-choi/til/tree/master/til/2020-01)
 - [2020년 2월](https://github.com/sungik-choi/til/tree/master/til/2020-02)
