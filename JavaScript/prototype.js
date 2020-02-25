@@ -27,16 +27,16 @@ function Animal2(name, age) {
   this.age = age;
 }
 
-Animal2.prototype.run = function() {
+Animal2.prototype.run = function run() {
   console.log(`${this.name} 녀석이 열심히 달린다`);
 };
 
-Animal2.prototype.setName = function(name) {
+Animal2.prototype.setName = function setName(name) {
   this.name = name;
   return this;
 };
 
-Animal2.prototype.info = function() {
+Animal2.prototype.info = function info() {
   console.log(`name is ${this.name}, age is ${this.age}`);
 };
 
