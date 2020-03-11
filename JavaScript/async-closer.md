@@ -64,3 +64,5 @@ function countdown() {
 ## 참고 자료
 
 <https://medium.com/@js_tut/the-visual-guide-to-javascript-variable-definitions-scope-abfb86edad>
+
+<https://www.youtube.com/watch?v=RZ3gXcI1MZY&t=52s>
