@@ -2,6 +2,17 @@
 
 현재 내가 잘 모르고 있는 것들, 알지만 완벽하게 알고 있지 않은 내용의 리스트를 정리합니다.
 
+## React
+
+- useState 구현해보기
+- useEffect 구현해보기
+- context API, useReducer
+
+## 네트워크
+
+- oAuth
+- 쿠키/세션
+
 ## JavaScript
 
 ### [MDN JavaScript 자습서](https://developer.mozilla.org/ko/docs/Web/JavaScript)
