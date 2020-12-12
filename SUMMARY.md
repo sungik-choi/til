@@ -4,7 +4,7 @@
 
 ## TIL
 
-* [\(2020.01 ~ 2020.06\)](2020.01-2020.06/README.md)
+* [2020.01 ~ 2020.06](2020.01-2020.06/README.md)
   * [common-class](2020.01-2020.06/common-class/README.md)
     * [함수형 프로그래밍](2020.01-2020.06/common-class/200506-fp.md)
     * [프로그래밍 디자인 패턴](2020.01-2020.06/common-class/200408-design-pattern.md)
