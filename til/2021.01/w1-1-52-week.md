@@ -14,6 +14,45 @@ description: 2021년 1월 W1 (1/4 ~ 1/10)
 
 "나는 신입이니 퍼포먼스를 당장 낼 수는 없지" 라고 생각하며 걱정을 어느정도 내려놓아야겠지만, 그래도 "퍼포먼스를 내야돼!" 라는 압박감은 스스로 어느정도 가져야한다... 이 조율을 어떻게 잘 하느냐가 관건이다.
 
+### 타임라인
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#xC6D4;</th>
+      <th style="text-align:left">&#xD654;</th>
+      <th style="text-align:left">&#xC218;</th>
+      <th style="text-align:left">&#xBAA9;</th>
+      <th style="text-align:left">&#xAE08;</th>
+      <th style="text-align:left">&#xC8FC;&#xB9D0;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>- &#xC785;&#xC0AC;</p>
+        <p>- &#xC628;&#xBCF4;&#xB529;</p>
+      </td>
+      <td style="text-align:left">
+        <p>- &#xAC1C;&#xBC1C;&#xD658;&#xACBD; &#xC138;&#xD305;</p>
+        <p>- &#xD504;&#xB85C;&#xB355;&#xD2B8; &#xC0B4;&#xD3B4;&#xBCF4;&#xAE30;</p>
+      </td>
+      <td style="text-align:left">- &#xD504;&#xB85C;&#xB355;&#xD2B8; &#xAD50;&#xC721;</td>
+      <td style="text-align:left">
+        <p>- &#xB9AC;&#xB355;&#xC2A4; &#xC0AC;&#xAC00; &#xACF5;&#xBD80;</p>
+        <p>- &#xD504;&#xB85C;&#xB355;&#xD2B8; &#xAD50;&#xC721;</p>
+      </td>
+      <td style="text-align:left">- &#xD504;&#xB85C;&#xB355;&#xD2B8; &#xAD50;&#xC721;</td>
+      <td style="text-align:left">
+        <p>- Todo &#xC0AC;&#xC774;&#xB4DC; &#xD504;&#xB85C;&#xC81D;&#xD2B8;</p>
+        <p>- &#xD734;&#xC2DD;</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### 금주의 내 점수: 90점
+
 ### 잘한 점
 
 * 아날로그 다이어리 작성을 시작했다. 평일에는 어느정도 시간 작성이 되는데, 주말엔 형편없었다. 아직 시간 기록까진 되는데 어떻게 시간을 분석하고, 개선해나가야할지 감이 잡히지 않는다. 우선 한달정도 기록만 꾸준히 해도 뭔가 패턴이 보이고, 낭비되는 시간이 보이겠지. 라고 믿고 우선 꾸준히 기록하는 걸 목표로 삼으려고 한다
