@@ -1,5 +1,5 @@
 ---
-description: 2021년 1월 W1
+description: 2021년 1월 W1 (1/4 ~ 1/10)
 ---
 
 # W1, 1/52 WEEK
