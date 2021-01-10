@@ -4,8 +4,8 @@
 
 ## TIL
 
-* [2020.01](til/2020.01/README.md)
-  * [W1, 1/52 WEEK](til/2020.01/w1-1-52-week.md)
+* [2021.01](til/2021.01/README.md)
+  * [W1, 1/52 WEEK](til/2021.01/w1-1-52-week.md)
 * [2020.01 ~ 2020.06](til/2020.01-2020.06/README.md)
   * [common-class](til/2020.01-2020.06/common-class/README.md)
     * [함수형 프로그래밍](til/2020.01-2020.06/common-class/200506-fp.md)
