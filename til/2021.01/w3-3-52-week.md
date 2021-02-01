@@ -55,7 +55,7 @@ const callbackRef = useCallback((key) => (node) => {
 * lodash
 * git cli
 
-### 공부거리 
+### 공부거리
 
 * 타입스크립트. 군더더기없이 타입을 정의하고, 타입추론이 완벽하게 기능하도록 타입 작성하는 법은 뭘까?
 * 테스트 코드. 안전하게 코드를 리팩토링하고 기능을 추가하려면 필수적인 거 같다. 어떻게 작성해야할까?
@@ -65,4 +65,3 @@ const callbackRef = useCallback((key) => (node) => {
 
 * [javascript - Typescript empty object for a typed variable - Stack Overflow](https://stackoverflow.com/questions/45339065/typescript-empty-object-for-a-typed-variable)
 * [css - align-content와 align-items의 차이점은 무엇입니까 - by Dinh](https://lycaeum.dev/ko/questions/27539262)
-
