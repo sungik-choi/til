@@ -4,14 +4,14 @@
 
 ## TIL
 
+* [2021.02](til/2021.01/README.md)
+  * [W6, 6/52 WEEK](til/2021.02/w2-6-52-week.md)
+  * [W5, 5/52 WEEK](til/2021.02/w1-5-52-week.md)
 * [2021.01](til/2021.01/README.md)
   * [W4, 4/52 WEEK](til/2021.01/w4-4-52-week.md)
   * [W3, 3/52 WEEK](til/2021.01/w3-3-52-week.md)
   * [W2, 2/52 WEEK](til/2021.01/w2-2-52-week.md)
   * [W1, 1/52 WEEK](til/2021.01/w1-1-52-week.md)
-* [2021.01](til/2021.01/README.md)
-  * [W6, 6/52 WEEK](til/2021.02/w2-6-52-week.md)
-  * [W5, 5/52 WEEK](til/2021.02/w1-5-52-week.md)
 * [2020.01 ~ 2020.06](til/2020.01-2020.06/README.md)
   * [common-class](til/2020.01-2020.06/common-class/README.md)
     * [함수형 프로그래밍](til/2020.01-2020.06/common-class/200506-fp.md)
